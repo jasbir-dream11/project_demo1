@@ -1,0 +1,23 @@
+1. Self learning Java:
+	Java Basics: https://dream11.udemy.com/course/java-in-depth-become-a-complete-java-engineer/
+	Java Design Patterns: https://dream11.udemy.com/course/java-design-patterns-course/
+Slack Channel: Q & A 
+Daily Assignments : From Day 2
+
+2. Rx Java 2/ Reactive Programming
+	Introduction to Functional Programming
+	Reactive Streaming
+	1. Streams ?
+	2. Internal working of reactive streaming
+	3. Observables, Singles, Flowables
+	4. Observable:
+        1. Lifecycle
+        2. Types
+        3. Schedulers
+        4. The Act of Creation
+        5. Composition
+        6. Filtering
+   5. Transformation operations: map, flatmap etc
+   6. Terminal Operations: Subscribe, doOnError
+   7. ObserveOn, SubscribeOn etc  
+Assignment every 3 days
